@@ -6,7 +6,7 @@ This is an amazing opportunity to practice, learn something new, challenge yours
 Also, I've set some personal rules:
 1. Every code should be written (mostly) in imperative (or algorithmic) style, sometimes in functional style or idiomatic Python;
 2. Every code should be written in Python 3;
-3. I could use only the [Python Standard Library](https://docs.python.org/3/library/), no other Python library.
+3. I could use only the [Python Standard Library](https://docs.python.org/3/library/) as facility, no other Python library allowed.
 
 So, right now I've decided to share my experience in this repository. Enjoy! 
 
